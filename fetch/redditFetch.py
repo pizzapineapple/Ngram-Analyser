@@ -55,7 +55,7 @@ for comment in flattenedComments :
         # print("More Comments")
         #type(flattenedComments)
         #print(flattenedComments)
-
+    break
 print(moreCommentsTime)
 
 
